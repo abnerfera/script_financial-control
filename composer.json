@@ -1,0 +1,16 @@
+{
+    "name": "abner/projeto_bisa",
+    "description": "controle-fianceiro",
+    "authors": [
+        {
+            "name": "Abner Ernesto",
+            "email": "abnergit@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        }
+    }
+}
